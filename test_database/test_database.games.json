@@ -1,0 +1,163 @@
+[{
+  "_id": {
+    "$oid": "6469fbb6fabd0cde4fa27fd2"
+  },
+  "name": "Catan",
+  "minPlayers": 3,
+  "maxPlayers": 6,
+  "unitsInStock": 2,
+  "tags": [
+    "strategy",
+    "medium length"
+  ],
+  "reservations": [
+    {},
+    {
+      "reservation_id": 3,
+      "start_time": {
+        "$date": "2023-06-18T17:24:52.617Z"
+      },
+      "end_time": {
+        "$date": "2023-06-18T18:24:52.617Z"
+      }
+    }
+  ],
+  "id": 1
+},
+{
+  "_id": {
+    "$oid": "648f39087c9802cff9a55edb"
+  },
+  "name": "Monopoly",
+  "minPlayers": 3,
+  "maxPlayers": 6,
+  "unitsInStock": 2,
+  "tags": [
+    "suffering",
+    "medium length"
+  ],
+  "reservations": [],
+  "id": 2
+},
+{
+  "_id": {
+    "$oid": "649052492706e8a7e649526a"
+  },
+  "name": "Ticket to Ride",
+  "minPlayers": 2,
+  "maxPlayers": 5,
+  "unitsInStock": 3,
+  "tags": [
+    "family",
+    "trains",
+    "strategy"
+  ],
+  "reservations": [
+    {}
+  ],
+  "id": 3
+},
+{
+  "_id": {
+    "$oid": "649052492706e8a7e649526b"
+  },
+  "name": "Pandemic",
+  "minPlayers": 2,
+  "maxPlayers": 4,
+  "unitsInStock": 1,
+  "tags": [
+    "cooperative",
+    "epidemic",
+    "strategy"
+  ],
+  "reservations": [
+    {}
+  ],
+  "id": 4
+},
+{
+  "_id": {
+    "$oid": "649052492706e8a7e649526c"
+  },
+  "name": "Codenames",
+  "minPlayers": 2,
+  "maxPlayers": 8,
+  "unitsInStock": 4,
+  "tags": [
+    "party",
+    "word"
+  ],
+  "reservations": [
+    {}
+  ],
+  "id": 5
+},
+{
+  "_id": {
+    "$oid": "649052492706e8a7e649526d"
+  },
+  "name": "Azul",
+  "minPlayers": 2,
+  "maxPlayers": 4,
+  "unitsInStock": 4,
+  "tags": [
+    "strategy",
+    "abstract"
+  ],
+  "reservations": [
+    {}
+  ],
+  "id": 6
+},
+{
+  "_id": {
+    "$oid": "649052492706e8a7e649526e"
+  },
+  "name": "Scrabble",
+  "minPlayers": 2,
+  "maxPlayers": 4,
+  "unitsInStock": 2,
+  "tags": [
+    "word",
+    "classic"
+  ],
+  "reservations": [
+    {}
+  ],
+  "id": 7
+},
+{
+  "_id": {
+    "$oid": "649052492706e8a7e649526f"
+  },
+  "name": "Carcassonne",
+  "minPlayers": 2,
+  "maxPlayers": 5,
+  "unitsInStock": 3,
+  "tags": [
+    "tiles",
+    "strategy"
+  ],
+  "reservations": [
+    {}
+  ],
+  "id": 8
+},
+{
+  "_id": {
+    "$oid": "649052492706e8a7e6495270"
+  },
+  "name": "7 Wonders",
+  "minPlayers": 2,
+  "maxPlayers": 7,
+  "unitsInStock": 4,
+  "tags": [
+    "strategy",
+    "card",
+    "civilization"
+  ],
+  "reservations": [
+    {}
+  ],
+  "id": 9
+}]

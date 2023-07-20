@@ -1,0 +1,141 @@
+[{
+  "_id": {
+    "$oid": "6490d5b8d14684a5173520ec"
+  },
+  "startTime": {
+    "$date": "2023-05-19T18:21:43.106Z"
+  },
+  "endTime": {
+    "$date": "2023-05-19T20:21:43.106Z"
+  },
+  "games": [
+    {
+      "id": 1,
+      "name": "Catan"
+    },
+    {
+      "id": 2,
+      "name": "Monopoly"
+    }
+  ],
+  "orderedFood": [
+    {}
+  ],
+  "clients": 8,
+  "clientName": "Eliza",
+  "tables": [
+    1,
+    2
+  ],
+  "id": 1
+},{
+  "_id": {
+    "$oid": "6490d66fd14684a5173520ed"
+  },
+  "startTime": {
+    "$date": "2023-05-19T17:21:43.106Z"
+  },
+  "endTime": {
+    "$date": "2023-05-19T20:21:43.106Z"
+  },
+  "games": [
+    {
+      "id": 1,
+      "name": "Catan"
+    }
+  ],
+  "orderedFood": [
+    {}
+  ],
+  "clients": 2,
+  "clientName": "Marzena",
+  "tables": [
+    3
+  ],
+  "id": 2
+},{
+  "_id": {
+    "$oid": "6490d6cbd14684a5173520ee"
+  },
+  "startTime": {
+    "$date": "2023-05-19T12:21:43.106Z"
+  },
+  "endTime": {
+    "$date": "2023-05-19T20:21:43.106Z"
+  },
+  "games": [
+    {
+      "id": 2,
+      "name": "Monopoly"
+    }
+  ],
+  "orderedFood": [
+    {}
+  ],
+  "clients": 2,
+  "clientName": "Ania",
+  "tables": [
+    4
+  ],
+  "id": 3
+},{
+  "_id": {
+    "$oid": "6490d75dd14684a5173520ef"
+  },
+  "startTime": {
+    "$date": "2023-07-19T12:21:43.106Z"
+  },
+  "endTime": {
+    "$date": "2023-07-19T20:21:43.106Z"
+  },
+  "games": [
+    {
+      "id": 5,
+      "name": "Codenames"
+    },
+    {
+      "id": 4,
+      "name": "Pandemic"
+    }
+  ],
+  "orderedFood": [
+    {}
+  ],
+  "clients": 10,
+  "clientName": "Julia",
+  "tables": [
+    1,
+    2,
+    3
+  ],
+  "id": 4
+},{
+  "_id": {
+    "$oid": "6490d810d14684a5173520f0"
+  },
+  "startTime": {
+    "$date": "2023-07-19T19:21:43.106Z"
+  },
+  "endTime": {
+    "$date": "2023-07-19T20:21:43.106Z"
+  },
+  "games": [
+    {
+      "id": 5,
+      "name": "Codenames"
+    },
+    {
+      "id": 3,
+      "name": "Ticket to Ride"
+    }
+  ],
+  "orderedFood": [
+    {}
+  ],
+  "clients": 4,
+  "clientName": "Aleksandra",
+  "tables": [
+    4
+  ],
+  "id": 5
+}]

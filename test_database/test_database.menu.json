@@ -1,0 +1,245 @@
+[{
+  "_id": {
+    "$oid": "6468ce1160002e45a438fc76"
+  },
+  "name": "Kawa czarna",
+  "price": 9.5,
+  "id": 1,
+  "tags": [
+    "napoje"
+  ],
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "6468ce6c60002e45a438fc77"
+  },
+  "name": "Espresso",
+  "price": 6.5,
+  "id": 2,
+  "tags": [
+    "napoje"
+  ],
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "646a00582e3680d75c512690"
+  },
+  "name": "Sernik",
+  "price": 12.5,
+  "id": 3,
+  "tags": [
+    "jedzenie",
+    "słodkie"
+  ],
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "648ee58ab1e057b2693e46ea"
+  },
+  "name": "Tort Malinowy",
+  "price": 13,
+  "id": 4,
+  "tags": [
+    "jedzenie",
+    "słodkie"
+  ],
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "648ee8dfe384ed976132fe11"
+  },
+  "name": "Szarlotka",
+  "price": 10.5,
+  "id": 5,
+  "tags": [
+    "jedzenie",
+    "słodkie"
+  ],
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "648eeb82be1fe35ae3970135"
+  },
+  "name": "Latte Karmelowe",
+  "price": 12,
+  "tags": [
+    "napoje",
+    "słodkie"
+  ],
+  "id": 6,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "648eed11be1fe35ae3970136"
+  },
+  "name": "Paluszki",
+  "price": 6.5,
+  "tags": [
+    "przekąski",
+    "jedzenie",
+    "słone"
+  ],
+  "id": 7,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "648ef80a1d58015054b08197"
+  },
+  "name": "Tosty z Szynką",
+  "price": 12,
+  "tags": [
+    "jedzenie",
+    "słone"
+  ],
+  "id": 8,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "648ef80a1d58015054b08198"
+  },
+  "name": "Tosty z Serem",
+  "price": 11,
+  "tags": [
+    "jedzenie",
+    "słone"
+  ],
+  "id": 9,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "64904e506dc82363b519cd3d"
+  },
+  "name": "Cappuccino",
+  "price": 13.57,
+  "tags": [
+    "napoje"
+  ],
+  "available": true,
+  "id": 10
+},
+{
+  "_id": {
+    "$oid": "64904e506dc82363b519cd3e"
+  },
+  "name": "Croissant",
+  "price": 11.25,
+  "tags": [
+    "jedzenie",
+    "słodkie"
+  ],
+  "available": true,
+  "id": 11
+},
+{
+  "_id": {
+    "$oid": "64904e506dc82363b519cd3f"
+  },
+  "name": "Quiche Lorraine",
+  "price": 12.83,
+  "tags": [
+    "jedzenie",
+    "słone"
+  ],
+  "available": true,
+  "id": 12
+},
+{
+  "_id": {
+    "$oid": "64904e506dc82363b519cd40"
+  },
+  "name": "Sałatka Cezar",
+  "price": 10.94,
+  "tags": [
+    "jedzenie",
+    "słone"
+  ],
+  "available": true,
+  "id": 13
+},
+{
+  "_id": {
+    "$oid": "64904e506dc82363b519cd41"
+  },
+  "name": "Kanapka Club",
+  "price": 14.72,
+  "tags": [
+    "jedzenie",
+    "słone"
+  ],
+  "available": true,
+  "id": 14
+},
+{
+  "_id": {
+    "$oid": "64904e506dc82363b519cd42"
+  },
+  "name": "Tarta owocowa",
+  "price": 10.38,
+  "tags": [
+    "jedzenie",
+    "słodkie"
+  ],
+  "available": true,
+  "id": 15
+},
+{
+  "_id": {
+    "$oid": "64904e506dc82363b519cd43"
+  },
+  "name": "Herbata mrożona",
+  "price": 11.99,
+  "tags": [
+    "napoje",
+    "słodkie"
+  ],
+  "available": true,
+  "id": 16
+},
+{
+  "_id": {
+    "$oid": "64904e506dc82363b519cd44"
+  },
+  "name": "Zupa warzywna",
+  "price": 12.17,
+  "tags": [
+    "jedzenie",
+    "słone"
+  ],
+  "available": true,
+  "id": 17
+},
+{
+  "_id": {
+    "$oid": "64904e506dc82363b519cd45"
+  },
+  "name": "Muffinka czekoladowa",
+  "price": 13.01,
+  "tags": [
+    "jedzenie",
+    "słodkie"
+  ],
+  "available": true,
+  "id": 18
+},
+{
+  "_id": {
+    "$oid": "64904e506dc82363b519cd46"
+  },
+  "name": "Smoothie",
+  "price": 14.84,
+  "tags": [
+    "napoje",
+    "słodkie"
+  ],
+  "available": true,
+  "id": 19
+}]
